@@ -1,6 +1,6 @@
 #Sky Technology lab Q2 解答
 #2022 7/31 提出締切
-#正解か不正解か不明
+#正解でした
 
 import math
 
